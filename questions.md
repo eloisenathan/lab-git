@@ -1,7 +1,7 @@
 # Questions
 
 ## Question 1: Donnez moi votre définition du DevOps ?
-'est l'association des équipe de développements (Devs) ainsi que des équipes d'exploitation (Ops) qui permet de tracer le cycle de vie d'un service : de la mise en place jusqu'a la production du service.
+C'est l'association des équipe de développements (Devs) ainsi que des équipes d'exploitation (Ops) qui permet de tracer le cycle de vie d'un service : de la mise en place jusqu'a la production du service.
 ## Question 2: Qu'est-ce que le continuous delivery ?
 Le continuous delivery est une approche pour automatiser l'aspect de la livraison 
 ## Question 3: Donnez le nom d'un serveur d'intégration continue (nom de la solution) ?
